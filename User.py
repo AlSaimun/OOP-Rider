@@ -115,8 +115,3 @@ uber.find_a_vehicle(rider1,'car',90)
 # start from rider 2- 3
 
 
-
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/AlSaimun/OOP-Rider.git
-git push -u origin main
